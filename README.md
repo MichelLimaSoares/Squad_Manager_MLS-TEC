@@ -1,4 +1,4 @@
-# Squad_Manager_MLS-TEC
+# Squad Manager MLS-TEC
 
 ## Status: Em Desenvolvimento 🚧
 
